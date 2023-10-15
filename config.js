@@ -7,10 +7,8 @@ var config = {
         "~_~",
     ],
     imgs: {
-        "牛牛": "liu1.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "牛牛": "./imgs/liu1.png",
     },
-    // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
         play: "音乐",
@@ -19,6 +17,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "以上是送给你的",
     }
 };
