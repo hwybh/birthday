@@ -8,6 +8,7 @@ var config = {
     ],
     imgs: {
         "牛牛": "./imgs/liu1.png",
+        "牛牛": "./imgs/liu2.png",
     },
     desc: {
         turn_on: "开始",
